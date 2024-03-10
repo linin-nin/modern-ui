@@ -7,13 +7,13 @@ import {
   chromecast,
   disc02,
   discord,
-  discordBlack,
-  facebook,
+  // discordBlack,
+  // facebook,
   figma,
   file02,
   framer,
   homeSmile,
-  instagram,
+  // instagram,
   notification2,
   notification3,
   notification4,
@@ -296,33 +296,21 @@ export const benefits = [
 
 export const socials = [
   {
-    id: "0",
-    title: "Discord",
-    iconUrl: discordBlack,
-    url: "#",
-  },
-  {
     id: "1",
     title: "Twitter",
     iconUrl: twitter,
-    url: "#",
-  },
-  {
-    id: "2",
-    title: "Instagram",
-    iconUrl: instagram,
-    url: "#",
+    url: "https://twitter.com/sreyninpon",
   },
   {
     id: "3",
     title: "Telegram",
     iconUrl: telegram,
-    url: "#",
+    url: "https://t.me/ponsreynin",
   },
-  {
-    id: "4",
-    title: "Facebook",
-    iconUrl: facebook,
-    url: "#",
-  },
+  // {
+  //   id: "4",
+  //   title: "Linked In",
+  //   iconUrl: facebook,
+  //   url: "https://t.co/2C1EjHPAWW",
+  // },
 ];
